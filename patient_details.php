@@ -92,7 +92,7 @@ $result = mysqli_query($con, $select_query);
       echo "<td>" . $row['contact'] . "</td>";
       echo "<td>" . $row['organ'] . "</td>";
       echo "<td>" . $row['age'] . "</td>";
-      echo "<td>" . $row['usertype'] . "</td>";
+      echo "<td>" . ($row['usertype'] ?? '') . "</td>";
       echo "</tr>";
     }
 
