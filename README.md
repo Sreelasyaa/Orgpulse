@@ -38,6 +38,7 @@ Register as Patient
 
 Webpage Overview
 
+![orgpulse webpage](https://github.com/user-attachments/assets/e5f89d29-835d-4644-8e33-eaad8af10404)
 
 
 ---
@@ -51,7 +52,7 @@ Webpage Overview
 
 ---
 
-## 🧪 How to Run Locally
+How to Run Locally
 
 1. Install [XAMPP](https://www.apachefriends.org/index.html)
 2. Clone this repository
